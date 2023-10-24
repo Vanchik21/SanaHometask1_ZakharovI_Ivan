@@ -39,3 +39,4 @@ Sana Commerce Software Development Courses `24
 Документація з використання Git розміщена за посиланням.
 
 Виконав: Захаров Іван
+ivanklaks12@gmail.com or ipz221_zia@student.ztu.edu.ua
